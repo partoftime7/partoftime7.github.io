@@ -1,8 +1,0 @@
-/* 图片自适应样式 */
-.post-content img {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-  height: auto;
-  border-radius: 12px;
-}
