@@ -4,25 +4,23 @@
   
     
     <entry>
-      <title>标题</title>
-      <link href="/2025/11/10/text/"/>
-      <url>/2025/11/10/text/</url>
+      <title>捕风追影</title>
+      <link href="/2025/11/24/2025-11-24-movies/"/>
+      <url>/2025/11/24/2025-11-24-movies/</url>
       
-        <content type="html"><![CDATA[<p>正文内容…</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>简介</strong>：一伙天才盗匪劫走数亿资产，却凭借超强反侦察能力全身而退，戏耍警方“天眼”系统。一筹莫展之际，澳门司警局请回了隐退多年的跟踪专家黄德忠（成龙 饰），他培养年轻司警何秋果（张子枫 饰）等人，重组“神秘跟踪队”，最终锁定了盗匪团的幕后狼王傅隆生（梁家辉 饰）。当警方布下天罗地网之时，盗匪团也设下局中局，斗智斗勇斗心眼，一场高端猫鼠局拉开帷幕。</p><p>很成功的商业片，在豆瓣有8.2的评分。<br><strong>打戏</strong>：梁家辉与成龙的打戏很好看，拳拳到肉，节奏感很顺畅，一个71岁，一个67岁，老牌实力派演员还正是当打之年，这部片子在暑假就想看，当时和人有缘无分，可惜没有机会，错过了。在暑假档还是适合邀请别人一起看的，算是年轻欢。比起另一片子，<strong>你行你上</strong>，6.7的评分（大多数影评对人不对影，或许对姜文期待太高，或者有偏见，导致口碑不好）。我仍然觉得，在需要看电影的时候，捕风捉影适合，是很成功的商业片。但是看过之后，一周基本上就遗忘了，那么你行你上，也是商业化，不过里面有很多姜文的隐喻、明喻？一周后也会遗忘，但如果看完以后能引发一点点的不同角度的思考，电影会遗忘，但自己的思考与结论仍是可以被记忆的。所以暑假档看着两个电影都不错。<br><strong>港片特色</strong>：传统经典警匪追逐，特别是雇佣兵攻击警察总部<br><strong>剧情紧凑</strong>：可以让观众一点点投入，从开篇10分钟，银行抢劫和劫匪擅自行动引出内部矛盾，师徒分心，后浪要把前辈拍在沙滩上。两条明线——抓匪；一条暗线——果果的改变；</p><p> 但是《捕风追影》<strong>叙事紧凑</strong>，不同人物与冲突点交代少，可以引申发掘为电视剧。经过搜索，是创作手法与篇幅限制共同作用的结果，有改成电视剧的潜力，而其改成电视剧与原版电影的收益对比各有优劣，需结合多方面因素判断，具体分析如下：<br> 改成电视剧的可行性：改成电视剧确实更具优势。电影里反派养子团成员除双胞胎外大多没记忆点，养子团组建与内讧的原因、成员职责等都没交代清楚，且成龙和张子枫的故事线与梁家辉带领的反派故事线风格割裂却缺乏紧密关联，改成电视剧后可通过多集篇幅填充这些内容，还能深入刻画人物成长弧线。不少观众也提出它适合做成《唐探》类网剧。</p><p>不过电视剧还是缺乏运营能力与营收能力，不可能有十几亿的收益了。<br>所以市场选择了作品只能以这种方式创作。</p>]]></content>
       
       
       <categories>
           
-          <category> 测试 </category>
-          
-          <category> 日常 </category>
+          <category> 电影 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 测试 </tag>
+            <tag> 电影 </tag>
             
         </tags>
       
@@ -36,19 +34,6 @@
       <url>/2025/11/10/2025-10-21-daily-cheating/</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2025/10/22/hello-world/"/>
-      <url>/2025/10/22/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
